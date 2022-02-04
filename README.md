@@ -12,4 +12,4 @@
 # Summary
 * By examining the final output, we can understand the Growth of released movies in IMDB according to specific years. Compare to all years in 1990 the number of movies released was high.
 
-![]()
+![Data](Data.PNG)
